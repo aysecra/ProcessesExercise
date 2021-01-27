@@ -1,0 +1,10 @@
+C:\Users\asus\Desktop\3_sinif\5_donem\Operating Systems\final\171180038_ayse_karatas\171180038_ayse_karatas\171180038_ayse_karatas\bin\Debug\171180038_ayse_karatas.exe.config
+C:\Users\asus\Desktop\3_sinif\5_donem\Operating Systems\final\171180038_ayse_karatas\171180038_ayse_karatas\171180038_ayse_karatas\bin\Debug\171180038_ayse_karatas.exe
+C:\Users\asus\Desktop\3_sinif\5_donem\Operating Systems\final\171180038_ayse_karatas\171180038_ayse_karatas\171180038_ayse_karatas\bin\Debug\171180038_ayse_karatas.pdb
+C:\Users\asus\Desktop\3_sinif\5_donem\Operating Systems\final\171180038_ayse_karatas\171180038_ayse_karatas\171180038_ayse_karatas\obj\Debug\171180038_ayse_karatas.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\3_sinif\5_donem\Operating Systems\final\171180038_ayse_karatas\171180038_ayse_karatas\171180038_ayse_karatas\obj\Debug\_171180038_ayse_karatas.Properties.Resources.resources
+C:\Users\asus\Desktop\3_sinif\5_donem\Operating Systems\final\171180038_ayse_karatas\171180038_ayse_karatas\171180038_ayse_karatas\obj\Debug\171180038_ayse_karatas.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\3_sinif\5_donem\Operating Systems\final\171180038_ayse_karatas\171180038_ayse_karatas\171180038_ayse_karatas\obj\Debug\171180038_ayse_karatas.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\3_sinif\5_donem\Operating Systems\final\171180038_ayse_karatas\171180038_ayse_karatas\171180038_ayse_karatas\obj\Debug\171180038_ayse_karatas.exe
+C:\Users\asus\Desktop\3_sinif\5_donem\Operating Systems\final\171180038_ayse_karatas\171180038_ayse_karatas\171180038_ayse_karatas\obj\Debug\171180038_ayse_karatas.pdb
+C:\Users\asus\Desktop\3_sinif\5_donem\Operating Systems\final\171180038_ayse_karatas\171180038_ayse_karatas\171180038_ayse_karatas\obj\Debug\_171180038_ayse_karatas.Form_Processes.resources
